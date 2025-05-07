@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: url('[https://wallpapercave.com/wp/wp7050480.jpg](https://i.postimg.cc/mDVqfwwT/uwp4759364.jpg)') no-repeat center center fixed;
+      background: url('https://i.postimg.cc/mDVqfwwT/uwp4759364.jpg') no-repeat center center fixed;
       background-size: cover;
       color: white;
     }
